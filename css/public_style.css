@@ -1,0 +1,11 @@
+.video-goods-container.thumbnail-mode{
+    text-align: center;
+}
+
+.video-goods-container.thumbnail-mode::after{
+    display: none;
+}
+
+.video-goods-container.thumbnail-mode img{
+    width: auto!important;
+}
